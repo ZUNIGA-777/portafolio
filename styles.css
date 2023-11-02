@@ -64,6 +64,7 @@ html {
   width: 52vw;
   margin-bottom: 30px;
   font-size: large;
+  line-height: 1.5;
 }
 
 .home-container a {
@@ -433,7 +434,6 @@ footer p, a {
   }
 
   .home-container p {
-    text-align: justify;
     width: auto;
   }
 
