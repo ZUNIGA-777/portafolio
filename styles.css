@@ -46,6 +46,7 @@ html {
 .section-home {
   display: flex;
   align-items: center;
+  height: 100vh;
 }
 
 .home-container {
