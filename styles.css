@@ -586,7 +586,9 @@ footer p, a {
  }
 
  .footer-content {
+  display: inline-block;
   flex-direction: column;
+  padding: 75px 20px;
  }
 
  .footer-author {
