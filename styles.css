@@ -330,15 +330,12 @@ footer p, a {
   display: inline-flex;
 }
 
-.talk {
-  width: 230px;
-}
-
 .talk h4 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 1.6em;
   margin-bottom: 45px;
   color: #141414;
+  width: 75%;
 }
 
 .talk p, .footer-btn {
@@ -583,6 +580,7 @@ footer p, a {
 
  .talk h4 {
   font-size: 1.2em;
+  width: 90%;
  }
 
  .footer-content {
