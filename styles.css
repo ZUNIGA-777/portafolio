@@ -46,7 +46,6 @@ html {
 .section-home {
   display: flex;
   align-items: center;
-  height: 100vh;
 }
 
 .home-container {
@@ -139,6 +138,10 @@ html {
   align-items: center;
   justify-content: center;
   position: relative;
+}
+
+.container-proyects, .proyects-photos {
+  cursor: url('./media/FluentEmojiRingedPlanet.png'), auto;
 }
 
 .container-proyects {
