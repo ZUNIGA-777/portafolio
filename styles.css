@@ -46,6 +46,7 @@ html {
 .section-home {
   display: flex;
   align-items: center;
+  height: 100vh;
 }
 
 .home-container {
@@ -54,7 +55,7 @@ html {
 
 .home-container h1 {
   font-family: 'Kalam';
-  font-size: 3.2em;
+  font-size: 3.6vw;
 }
 
 .home-container p {
@@ -62,7 +63,7 @@ html {
   font-weight: 600;
   width: 52vw;
   margin-bottom: 30px;
-  font-size: large;
+  font-size: 1.6vw;
   line-height: 1.5;
 }
 
@@ -421,23 +422,25 @@ footer p, a {
     display: flex;
     justify-content: center;
   }
+
+  
   .home-photo {
-    width: 150px;
+    width: 100px;
     height: auto;
-    margin-top: 90px;
   }
 
   .home-container {
-    padding: 50px 20px;
+    padding: 36px 20px;
     text-align: center;
   }
 
   .home-container h1 {
-    font-size: 43px;
+    font-size: 2em;
   }
 
   .home-container p {
     width: auto;
+    font-size: 1em;
   }
 
   .home-container a {
@@ -602,4 +605,3 @@ footer p, a {
  }
  
 }
-
