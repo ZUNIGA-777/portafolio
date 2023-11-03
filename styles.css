@@ -21,8 +21,9 @@ html {
   background-color: white;
   box-shadow: 0 0 10px rgb(216, 216, 216);
   position: fixed;
+  top: 0;
+  width: 100%;
   z-index: 200;
-  width: 100%
 }
 
 .header-ul {
@@ -44,9 +45,9 @@ html {
 
 /* section-home */
 .section-home {
+  margin-top: 120px;
   display: flex;
   align-items: center;
-  height: 126vh;
 }
 
 .home-container {
@@ -416,11 +417,6 @@ footer p, a {
 
   .section-home {
     flex-direction: column-reverse;
-  }
-
-  picture {
-    display: flex;
-    justify-content: center;
   }
 
   .home-photo {
