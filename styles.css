@@ -46,7 +46,7 @@ html {
 .section-home {
   display: flex;
   align-items: center;
-  height: 100vh;
+  height: 126vh;
 }
 
 .home-container {
@@ -423,9 +423,8 @@ footer p, a {
     justify-content: center;
   }
 
-  
   .home-photo {
-    width: 100px;
+    width: 145px;
     height: auto;
   }
 
